@@ -25,7 +25,8 @@
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="true"
         android:weightSum="1"
-        android:background="@drawable/background_image">
+        android:background="@drawable/background_image"
+        >
 
         <ImageView
             android:layout_width="match_parent"
